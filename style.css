@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #23252C;
+    padding: 20%
+}
+
+.container {
+    background-color: #1A1B21;
+}
+
+footer {
+    background-color: #161619;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-size: 15px
+}
+
+a {
+    text-decoration: none;
+    color: #F3BF99;
+}
+
+.portfolio {
+    text-align: center;
+}
+
+.buttons {
+    padding: 20px;
+    text-align: center;
+}
+
+.email {
+    border: none;
+    margin-right: 30px;
+    border-radius: 5px;
+    padding: 0.5em
+}
+
+.email-link {
+    color: black;
+}
+
+.linkedin {
+    background-color: #5093E2;
+    border: none;
+    margin-left: 30px;
+    border-radius: 5px;
+    padding: 0.5em
+}
+
+.link-link {
+    color: white;
+}
+
+h2 {
+    color: white;
+    padding-left: 30px
+}
+
+p {
+    color: white;
+    padding-left: 30px;
+    font-size: 0.9em;
+    padding-right: 30px
+}
+
+#github-icon {
+    font-size: 1.5em;
+}
+
+.github-container {
+    text-align: center;
+}
+
+.projects {
+    color: white;
+    font-size: 13px;
+    font-weight: lighter
+}
+
+#mail, #linked {
+    padding: 5px;
+}
+
+.user-icon {
+    text-align: center;
+}
+
+#user {
+
+   font-size: 10em;
+   padding-top: 10px;
+    
+}
